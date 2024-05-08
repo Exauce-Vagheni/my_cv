@@ -1,0 +1,164 @@
+body{
+    font-family: arial;
+}
+#entete{
+    min-height: 80%;
+    background-color: black;
+}
+#logo{
+    font-weight: bold;
+    color: white;
+    padding: 20px;
+    font-size: 20px;
+    display: inline-block;
+    vertical-align: top;
+}
+ul li{
+    color: white;
+    font-size: 18px;
+    display: inline-block;
+    margin: 5px;
+    vertical-align: top;
+}
+li img{
+    width:25px;
+}
+#menu{
+    display: inline-block;
+    vertical-align: top;
+    float: right;
+    margin-right: 10px;
+    font-weight: bold;
+}
+#description{
+    color:white;
+    padding: 40px;
+}
+#nom{
+    font-size:65px;
+    margin-bottom: 4px;
+}
+#btn1{
+    background-color: white;
+    display: inline-block;
+    vertical-align: top;
+    width: 100px;
+    height: 30px;
+    border: 1px solid black;
+    
+}
+#btn2{
+    background-color: black;
+    border: 1px solid white;
+    display: inline-block;
+    vertical-align: top;
+    color: white;
+    width: 100px;
+    height: 30px;
+}
+a{
+    text-decoration: none;
+    color:white;
+}
+#postnom{
+    text-shadow: 0 0 2px white;
+    color: black;
+}
+#qualite{
+    display: inline-block;
+    width: 25%;
+    vertical-align: top;
+    text-align: left;
+}
+#qualite p{
+    color: gray;
+}
+#corps1 hr{
+    width: 80%;
+}
+#avoirs{
+    display: inline-block;
+    margin-right: 100px;
+}
+#avoirs h3{
+    margin-bottom: 0;
+}
+#avoirs h5{
+    margin-top: 2px;
+    color: gray;
+}
+#corps3{
+    margin-top: 10px;
+}
+#corps3 img{
+    width: 42%;
+    display: inline-block;
+    vertical-align: top;
+}
+#corps3 #apropos{
+    display: inline-block;
+    vertical-align: top;
+}
+#details{
+   margin: 0;
+   font-size: 10px;
+   color: gray;
+   text-align: left;
+}
+#titre_dev{
+    margin-top: 2px;
+}
+#apropos{
+    max-width: 30%;
+    margin-left: 40px;
+}
+#apropos p{
+    text-align: justify;
+    color:gray;
+}
+#personnalite{
+    margin:10px;
+}
+
+#personnalite h4,p{
+    margin:1px;
+}
+#personnalite p{
+    color:gray;
+    font-size: 15px;
+}
+#details1,#details2{
+    display: inline-block;
+    vertical-align: top;
+}
+#competence div{
+    width: 80%;
+    vertical-align: top;
+}
+#competence div p{
+    color: gray;
+    padding: 5px;
+}
+#competence div ul li{
+    list-style: circle;
+}
+#footer{
+    margin-top: 15px;
+    padding: 10px;
+    color: rgb(235, 24, 24);
+    text-align: center;
+    background-color: black;
+}
+#photos img{
+    width: 300px;
+    display: inline-block;
+    height: 300px;
+}
+#about{
+    width:900px;
+    margin:auto;
+}
+#experience p{
+    color:gray;
+    padding: 5px;
+}
